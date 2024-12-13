@@ -25,7 +25,7 @@ I am an aspiring AI Developer driven by a passion for Machine Learning and Cyber
 ---
 
 ## 📈 GitHub Stats  
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish-ahmad-ai&show_icons=true&theme=radical)  
+<!--![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish-ahmad-ai&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=radical)  
 
 ---
