@@ -2,8 +2,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=blue)](https://github.com/danish-ahmad-ai)
 
 ## 🚀 About Me  
-I'm a passionate **digital marketer**, **cybersecurity enthusiast**, and an aspiring **AI developer**. With over 5 years of experience, I specialize in providing innovative digital solutions and exploring the limitless potential of AI and machine learning.  
-
+I am an aspiring AI Developer driven by a passion for Machine Learning and Cybersecurity, fascinated by their boundless possibilities. Leveraging a proven track record in Digital Marketing and SEO, I excel at merging creative digital strategies with groundbreaking AI innovations.
 ---
 
 ## 👨‍💻 Programming and Technologies
