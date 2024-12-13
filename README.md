@@ -1,38 +1,67 @@
 # 👋 Hi, I’m Danish Ahmad!  
-[![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=blue)](https://github.com/danish-ahmad-ai)  
+[![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=blue)](https://github.com/danish-ahmad-ai)
 
-## 🌟 About Me  
-I’m a **digital marketer**, **cybersecurity enthusiast**, and an aspiring **AI developer**. With over 5 years of experience, I specialize in delivering impactful digital strategies, advanced SEO, and creative solutions for businesses worldwide. I’m now exploring the fascinating field of AI and machine learning.  
-
----
-
-## 🛠 Skills and Expertise  
-### **Core Skills**  
-- **Programming:** Python  
-- **Development:** Web Designing, WordPress, Shopify Customization, Elementor  
-- **Specializations:** SEO, Digital Marketing, Cybersecurity Fundamentals  
-
-### **Additional Skills**  
-- **E-commerce Optimization:** Speed Enhancement, Conversion Rate Improvement  
-- **Advertising Expertise:** Facebook Meta Ads, TikTok Ads, Campaign Management  
-- **Tools & Technologies:** Git, Google Analytics, Google Ads, Canva  
+## 🚀 About Me  
+I'm a passionate **digital marketer**, **cybersecurity enthusiast**, and an aspiring **AI developer**. With over 5 years of experience, I specialize in providing innovative digital solutions and exploring the limitless potential of AI and machine learning.  
 
 ---
 
-## 📊 GitHub Stats  
+## 👨‍💻 Programming and Technologies  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danish-ahmad-ai&show_icons=true&theme=dark&hide_border=true&bg_color=1F1F1F&title_color=FF8C00&icon_color=FF8C00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=dark&hide_border=true&bg_color=1F1F1F&title_color=FF8C00&icon_color=FF8C00"/>
-</div>  
+### **Programming and Markup Languages**  
+### **Programming and Markup Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+
+### **Frameworks and Libraries**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
+![PyQt6](https://img.shields.io/badge/-PyQt6-41C7F5?logo=python&logoColor=white&style=flat)  
+![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?logo=python&logoColor=white&style=flat)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+
+### **Tools and Platforms**  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)  
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat)  
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat)  
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=flat)  
+![Gemini](https://img.shields.io/badge/-Gemini-4F4F4F?logo=gemini&logoColor=white&style=flat)  
+![Claude](https://img.shields.io/badge/-Claude-FF4F00?logo=github&logoColor=white&style=flat)  
+![LLaMA](https://img.shields.io/badge/-LLaMA-0066CC?logo=python&logoColor=white&style=flat)  
+![Curser](https://img.shields.io/badge/-Curser-2A2A2A?logo=python&logoColor=white&style=flat)  
+![Windsurf](https://img.shields.io/badge/-Windsurf-DAA520?logo=python&logoColor=white&style=flat)  
+[Upwork](https://www.upwork.com/freelancers/~01b3efdafc36974754)
 
 ---
 
-## 🌐 Let's Connect  
+## 🎓 Education  
+- **Bachelor's degree in AI (Soon to be completed)**  
+  Courses: Machine Learning, AI, Cybersecurity, and E-commerce Development from PIAIC  
+
+---
+
+## 📈 GitHub Stats  
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish-ahmad-ai&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Let's Connect  
 - **LinkedIn:** [Danish Ahmad](http://www.linkedin.com/in/danish-ahmad-digital-marketer)  
-- **Portfolio Website:** [Danish Ahmad](https://danishahmad.xyz)  
+- **Website:** [Danish Ahmad](https://danishahmad.xyz)  
 - **Email:** [mrdanishkhb@gmail.com](mailto:mrdanishkhb@gmail.com)  
 
 ---
 
-> *“Innovation and dedication drive every step of my journey.”*
+> *"Innovation and dedication drive every step of my journey."*
