@@ -1,9 +1,10 @@
-# 👋 Hi, I’m Danish Ahmad!  
+# Hi there 👋  
 [![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=blue)](https://github.com/danish-ahmad-ai)
 
-## 🚀 About Me  
+## I'm Danish Ahmad  
 
 I am an aspiring AI Developer driven by a passion for Machine Learning and Cybersecurity, fascinated by their boundless possibilities. Leveraging a proven track record in Digital Marketing and SEO, I excel at merging creative digital strategies with groundbreaking AI innovations.
+
 ---
 
 ## 👨‍💻 Programming and Technologies
