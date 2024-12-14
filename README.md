@@ -11,7 +11,7 @@
 
 ---
 
-I am an aspiring AI Developer driven by a passion for Machine Learning and Cybersecurity, fascinated by their boundless possibilities. Leveraging a proven track record in Digital Marketing and SEO, I excel at merging creative digital strategies with groundbreaking AI innovations.
+I am an aspiring AI Developer driven by a passion for Generative and Agenctic AI, Machine Learning, Cybersecurity, and ETH, and I am fascinated by their boundless possibilities. Leveraging a proven Digital Marketing and SEO track record, I excel at merging creative digital strategies with groundbreaking AI innovations, Securly.
 
 ---
 
