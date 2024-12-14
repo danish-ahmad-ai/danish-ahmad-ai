@@ -3,6 +3,12 @@
 
 ## I'm Danish Ahmad  
 
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B801&center=true&vCenter=true&width=440&lines=A+Digital+Adventurer+Exploring+AI!;Future+AI+Developer+🚀;Cybersecurity+Enthusiast+🔐;Coding+and+Creating+the+Future!+💻;Let's+Innovate+Together!" alt="Typing SVG" />
+  </h3>
+</div>
+
 I am an aspiring AI Developer driven by a passion for Machine Learning and Cybersecurity, fascinated by their boundless possibilities. Leveraging a proven track record in Digital Marketing and SEO, I excel at merging creative digital strategies with groundbreaking AI innovations.
 
 ---
@@ -16,7 +22,7 @@ I am an aspiring AI Developer driven by a passion for Machine Learning and Cyber
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) ![PyQt6](https://img.shields.io/badge/-PyQt6-41C7F5?logo=python&logoColor=white&style=flat) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?logo=python&logoColor=white&style=flat)
 
 ### **Tools and Platforms**  
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-4E8DFF?logo=openai&logoColor=white&style=flat) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat) ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat) ![Gemini](https://img.shields.io/badge/-Gemini-4F4F4F?logo=gemini&logoColor=white&style=flat) ![Claude](https://img.shields.io/badge/-Claude-FF4F00?logo=github&logoColor=white&style=flat) ![LLaMA](https://img.shields.io/badge/-LLaMA-0066CC?logo=python&logoColor=white&style=flat) ![Curser](https://img.shields.io/badge/-Curser-2A2A2A?logo=python&logoColor=white&style=flat) ![Windsurf](https://img.shields.io/badge/-Windsurf-DAA520?logo=python&logoColor=white&style=flat) [Upwork](https://www.upwork.com/freelancers/~01b3efdafc36974754)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-4E8DFF?logo=openai&logoColor=white&style=flat) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat) ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat)
 
 ---
 
@@ -27,7 +33,6 @@ I am an aspiring AI Developer driven by a passion for Machine Learning and Cyber
 ---
 
 ## 📈 GitHub Stats  
-<!--![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish-ahmad-ai&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=radical)  
 
 ---
