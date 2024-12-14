@@ -5,8 +5,8 @@
 
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Top-Rated+Digital+Marketer+%26+SEO+Expert;Cybersecurity+Enthusiast+%18+ETH+in+Training%F0%9F%94%90;Future-Ready+AI+Developer+%F0%9F%9A%80;Let's+Code+%26+Create+the+Future." alt="Typing SVG" />
-</h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Top-Rated+Digital+Marketer+%26+SEO+Expert;Cybersecurity+Enthusiast+%26+Ethical+Hacker+in+Training%F0%9F%94%90;Future-Ready+AI+Developer+%F0%9F%9A%80;Let's+Code+%26+Create+the+Future." alt="Typing SVG" />
+  </h3>
 </div>
 
 ---
