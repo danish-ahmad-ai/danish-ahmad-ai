@@ -1,52 +1,42 @@
-# Hi there 👋
-[![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=ff69b4)](https://github.com/danish-ahmad-ai)
+# Hi there 👋  
+[![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=blue)](https://github.com/danish-ahmad-ai)
 
 ## I'm Danish Ahmad
 
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Digital+Marketer+%26+AI+Enthusiast;Future-Ready+AI+Developer+%F0%9F%9A%80;Cybersecurity+Explorer+%F0%9F%94%90;Code%2C+Create%2C+Conquer!+%F0%9F%92%BB;Let's+Build+the+Next+Big+Thing." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Top-Rated+Digital+Marketer+%26+SEO+Expert;Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+in+Training;Future-Ready+AI+Developer+%F0%9F%9A%80;Let's+Code+%26+Create+the+Future." alt="Typing SVG" />
   </h3>
 </div>
 
 ---
 
-### 🔍 About Me  
-I'm a passionate **AI Developer in the making**, deeply intrigued by the crossroads of **Machine Learning**, **Cybersecurity**, and **Digital Innovation**. My journey started in Digital Marketing and SEO, where I mastered the art of data-driven strategies. Now, I blend technical skills with creativity to craft solutions that redefine the future.
+I am an aspiring AI Developer driven by a passion for Machine Learning and Cybersecurity, fascinated by their boundless possibilities. Leveraging a proven track record in Digital Marketing and SEO, I excel at merging creative digital strategies with groundbreaking AI innovations.
 
 ---
 
-## 👨‍💻 Core Skills and Tools
+## 👨‍💻 Programming and Technologies
 
-### **Languages I Code In**
-![Python](https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?logo=javascript&logoColor=black&style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
+### **Programming and Markup Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-### **AI & ML Frameworks**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+### **Frameworks and Libraries**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) ![PyQt6](https://img.shields.io/badge/-PyQt6-41C7F5?logo=python&logoColor=white&style=flat) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?logo=python&logoColor=white&style=flat)
 
-### **Tech & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-4E8DFF?logo=openai&logoColor=white&style=flat-square) ![Shopify](https://img.shields.io/badge/-Shopify-95BF47?logo=shopify&logoColor=white&style=flat-square) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square) ![Elementor](https://img.shields.io/badge/-Elementor-CF245A?logo=elementor&logoColor=white&style=flat-square)
-
----
-
-## 🛠️ Projects in the Works
-
-- **AI-Powered To-Do App**: An intuitive task manager with a GUI and database integration. 
-- **CyberSecure**: A Python-based toolkit for enhancing small-scale system security.
-- **SEO Analyzer**: A tool leveraging AI to generate actionable website optimization strategies.
+### **Tools and Platforms**  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-4E8DFF?logo=openai&logoColor=white&style=flat) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat) ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat)
 
 ---
 
-## 🌟 Accomplishments & Experience
-
-- **Digital Marketing Pro**: 5+ years creating result-oriented campaigns and high-performing websites.
-- **Cybersecurity Enthusiast**: Exploring innovative solutions to secure the digital space.
-- **AI Aspirant**: Developing skills in Python, TensorFlow, and ethical AI applications.
+## 🎓 Education  
+- **Bachelor's degree in AI (Soon to be completed)**  
+  Courses: Machine Learning, AI, Cybersecurity, and E-commerce Development from PIAIC  
 
 ---
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=gruvbox)  
+## 📈 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=radical)  
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanishAhmad&show_icons=true&theme=radical)
 
 ---
 
