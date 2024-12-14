@@ -36,7 +36,7 @@ I am an aspiring AI Developer driven by a passion for Generative and Agenctic AI
 
 ## 📈 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=radical)  
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanishAhmad&show_icons=true&theme=radical)
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish-ahmad-ai&show_icons=true&theme=radical)
 
 ---
 
