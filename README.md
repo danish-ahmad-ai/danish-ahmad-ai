@@ -1,47 +1,17 @@
 # Hi there 👋  
-[![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=blue)](https://github.com/danish-ahmad-ai)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=danish-ahmad-ai&color=brightgreen)](https://github.com/danish-ahmad-ai)  
 
 ## I'm Danish Ahmad  
 
-<div align="center">
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B801&center=true&vCenter=true&width=440&lines=A+Digital+Adventurer+Exploring+AI!;Future+AI+Developer+🚀;Cybersecurity+Enthusiast+🔐;Coding+and+Creating+the+Future!+💻;Let's+Innovate+Together!" alt="Typing SVG" />
-  </h3>
-</div>
+> *"Pushing boundaries where technology meets innovation."*  
 
-I am an aspiring AI Developer driven by a passion for Machine Learning and Cybersecurity, fascinated by their boundless possibilities. Leveraging a proven track record in Digital Marketing and SEO, I excel at merging creative digital strategies with groundbreaking AI innovations.
+I'm a **Cybersecurity Enthusiast**, a passionate **AI Developer in the making**, and a seasoned **Digital Marketer** with expertise in **SEO**. My work reflects a fusion of creativity, analytical thinking, and technical excellence, driven by a mission to solve real-world challenges through **AI and cybersecurity**.  
 
 ---
 
-## 👨‍💻 Programming and Technologies
-
-### **Programming and Markup Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
-### **Frameworks and Libraries**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) ![PyQt6](https://img.shields.io/badge/-PyQt6-41C7F5?logo=python&logoColor=white&style=flat) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?logo=python&logoColor=white&style=flat)
-
-### **Tools and Platforms**  
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-4E8DFF?logo=openai&logoColor=white&style=flat) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![Elementor](https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=white&style=flat) ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat)
-
----
-
-## 🎓 Education  
-- **Bachelor's degree in AI (Soon to be completed)**  
-  Courses: Machine Learning, AI, Cybersecurity, and E-commerce Development from PIAIC  
-
----
-
-## 📈 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ahmad-ai&layout=compact&theme=radical)  
-
----
-
-## 🌟 Let's Connect  
-- **LinkedIn:** [Danish Ahmad](http://www.linkedin.com/in/danish-ahmad-digital-marketer)  
-- **Website:** [Danish Ahmad](https://danishahmad.xyz)  
-- **Email:** [mrdanishkhb@gmail.com](mailto:mrdanishkhb@gmail.com)  
-
----
-
-> *"Innovation and dedication drive every step of my journey."*
+### 🚀 **Who am I?**  
+```text
+> Ethical hacker 🌐 | Cybersecurity Enthusiast 🔒  
+> Digital Marketing Strategist 📈 | SEO Specialist  
+> Future AI Developer 🤖 | Machine Learning Explorer  
